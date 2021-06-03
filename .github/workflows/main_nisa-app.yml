@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'nisa-app'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_dda1d8db75f84c129211ec57566386ff }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_509ea2344dd94e66933fe78ada9a45d4 }}
